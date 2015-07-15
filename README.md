@@ -5,6 +5,8 @@ Slate is a front-end framework for developing Pebble mobile configuration pages.
 It's the fastest way to make a clean UI for a Pebble app's mobile configuration
 page.
 
+![screenshot](https://raw.githubusercontent.com/pebble/slate/master/docs/assets/screenshot.png)
+
 Getting Started
 ---------------
 
@@ -15,7 +17,7 @@ There are two quick ways to getting started with Slate.
 
 ### Via Download
 
-The CSS and JS files and fonts are also avaliable via download.
+The CSS and JS files and fonts are also available via download.
 
 [Download Slate 0.0.1 >](https://github.com/pebble/slate/archive/v0.0.1.zip)
 
