@@ -1,5 +1,12 @@
-@import url(../fonts/pfdindisplaypro-regular.woff);
-@import url(../fonts/ptsans-regular.woff);
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('../fonts/pfdindisplaypro-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/ptsans-regular.woff') format('woff');
+}
 
 $orange:            #FF4700;
 $dark-gray:         #333333;
