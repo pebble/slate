@@ -1,6 +1,8 @@
 Slate
 =====
 
+![Bower](https://img.shields.io/bower/v/pebble-slate.svg)
+
 Slate is a front-end framework for developing Pebble mobile configuration pages.
 It's the fastest way to make a clean UI for a Pebble app's mobile configuration
 page.
