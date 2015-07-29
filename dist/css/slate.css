@@ -1,9 +1,15 @@
 @font-face {
-  font-family: 'PF DinDisplay Pro';
-  src: url("../fonts/pfdindisplaypro-regular.woff") format("woff"); }
+  font-family: 'PFDinDisplayProLightWebfont';
+  src: url("../fonts/PFDinDisplayPro-Light.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal; }
 @font-face {
-  font-family: 'PT Sans';
-  src: url("../fonts/ptsans-regular.woff") format("woff"); }
+  font-family: 'PTSansRegularWebfont';
+  src: url("../fonts/PTSans-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal; }
 * {
   margin: 0;
   padding: 0; }
@@ -26,8 +32,8 @@ body {
   user-select: none !important; }
 
 body, select, input[type=text], input[type=time], input[type=date] {
-  font-family: 'PF DinDisplay Pro', sans-serif;
-  font-weight: 300; }
+  font-family: 'PFDinDisplayPro-Light', PFDinDisplayProLightWebfont, sans-serif;
+  font-weight: normal; }
 
 select, input[type=time], input[type=date] {
   -webkit-appearance: none;
@@ -72,9 +78,9 @@ input[type=date] {
 .item-container-header {
   padding: 3px 10px;
   text-transform: uppercase;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT Sans', PTSansRegularWebfont, sans-serif;
   font-size: .8em;
-  font-weight: 500;
+  font-weight: normal;
   color: #A8A8A8; }
 
 .item-container-content {
@@ -404,11 +410,11 @@ input[type=date] {
 .item-slider::-webkit-slider-thumb:after {
   content: "lll";
   position: absolute;
-  left: 5px;
+  left: 4px;
   top: 3px;
   height: 12px;
   width: 10px;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   color: #DEDEDE;
   font-size: 16px;

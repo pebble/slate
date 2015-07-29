@@ -21,7 +21,7 @@ There are two quick ways to getting started with Slate.
 
 The CSS and JS files and fonts are also available via download.
 
-[Download Slate 0.0.2 >](https://github.com/pebble/slate/archive/v0.0.2.zip)
+[Download Slate 0.0.3 >](https://github.com/pebble/slate/archive/v0.0.3.zip)
 
 #### Via Bower
 

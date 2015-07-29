@@ -1,6 +1,6 @@
 {
   "name": "Slate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Front-end framework for developing Pebble mobile configuration pages.",
   "scripts": {
     "build": "gulp build"
