@@ -39,6 +39,19 @@ Slate is also bundled with [Zepto.js](https://github.com/madrobby/zepto), which
 is "a minimalist JavaScript library for modern browsers with a largely
 jQuery-compatible API."
 
+Video Tutorial
+--------------
+
+A detailed live demo tutorial was given at the Pebble SF Meetup, and can be
+watched in full below.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TtP7z6wceqI/0.jpg)](http://www.youtube.com/watch?v=TtP7z6wceqI)
+
+Additionally, the example app used in the video 
+[can be found here](https://github.com/pebble-hacks/slate-watchface-template), 
+while a second example implementation 
+[can be found here](https://github.com/pebble-examples/slate-config-example).
+
 Documentation
 -------------
 
