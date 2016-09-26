@@ -1,5 +1,7 @@
-Slate
+Slate [Deprecated]
 =====
+
+> **Note** Slate has been deprecated, and superseded by [Clay](https://github.com/pebble/clay).
 
 ![Bower](https://img.shields.io/bower/v/pebble-slate.svg)
 
